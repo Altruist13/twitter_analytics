@@ -1,12 +1,12 @@
 {
-"app_name": "deiapp",
-"api_key":"KKlGsRq5Rpc7lUgGYCXe0Ekdq", 
-"api_secret_key": "F6THbhRT7RPdnkSXHe9fVe0t3u5vbJ6I5RooJhMTuO9jC79cWa",
-"access_token": "3237450032-8UprDHe3U55PlGbqxVAEKn7xo5UyaB2x17JKVx5",
-"access_secret_token":"BKsAcbFENQpy7495Qgs2aBXP3aOTplxW0dJTjryixLE5k",
-"oauth_token_secret": "BKsAcbFENQpy7495Qgs2aBXP3aOTplxW0dJTjryixLE5k",
-"user_id": "3237450032", 
-"oauth_token": "3237450032-8UprDHe3U55PlGbqxVAEKn7xo5UyaB2x17JKVx5", 
-"screen_name": "bgcgcb",
+"app_name": "",
+"api_key":"", 
+"api_secret_key": "",
+"access_token": "",
+"access_secret_token":"",
+"oauth_token_secret": "",
+"user_id": "", 
+"oauth_token": "", 
+"screen_name": "",
 "link": "https://twython.readthedocs.io/en/latest/usage/starting_out.html"
 } 
